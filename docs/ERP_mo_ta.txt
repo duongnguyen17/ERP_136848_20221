@@ -1,0 +1,14 @@
+Bối cảnh công ty comartek:
+
+Công ty cormatek được thành lập từ đầu năm 2019, hoạt động trong lĩnh vực gia công phần mềm. Sau 3 năm phát triển, công ty giờ đây đã lớn mạnh và thay đổi mô hình quản lý.
+Quy mô công ty: bao gồm 1 công ty mẹ là cormatek, và các công ty con(mô hình giống FPT) gồm:
+ - Rava solution - công ty chuyển đưa ra tư vấn giải pháp cho các công ty có nhu cầu số hoá.(Nhân sự 6 người))
+ - Comartek software - công ty gia công phần mềm. (Nhân sự 84 người)
+ - Revo - Công ty outsource design (Nhân sự 13 người)
+ - Mefi - Công ty chuyên làm dịch vụ liên quan tới dịch vụ quảng cáo youtube (Nhân sự 15 người)
+ - Back office - Phụ trách các vấn đề nhân sự, kế toán, ...(6 người)
+
+Định hướng: 
+
+Do các công ty con còn nhỏ nên việc xin nghỉ của nhân viên sẽ được thông báo tới 2 bên là người đứng đầu của đơn vị đó và Back office.
+Các đơn xin nghỉ cần được phê duyệt bởi người đứng đầu mỗi công ty con.
