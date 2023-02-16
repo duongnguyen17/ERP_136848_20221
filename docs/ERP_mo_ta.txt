@@ -6,7 +6,7 @@ Quy mô công ty: bao gồm các phòng ban:
     - Phòng kế toán - 1 người
     - Phòng quản lý nhân sự - 3 người
     - Phòng công nghệ thông tin - 1 người
-    - Phòng phát triển sản phẩm - 14 dev + 1 hạ tầng + 2 BA + 2 designer
+    - Phòng phát triển sản phẩm - 10 dev + 1 hạ tầng + 2 BA + 2 designer + 4 nhân viên giáo dục
     - Phòng sale & mkt - 8 người
     - Ban quản lý - 1 CEO + 1 CTO
 
