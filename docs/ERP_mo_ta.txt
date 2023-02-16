@@ -3,7 +3,8 @@ Bối cảnh công ty ABC:
 Công ty ABC được thành lập từ đầu năm 2021, là 1 công ty startup trong lĩnh vực giáo dục. Tổng số nhân viên hiện tại là 34.
 
 Quy mô công ty: bao gồm các phòng ban:
-    - Phòng quản lý nhân sự - 4 người
+    - Phòng kế toán - 1 người
+    - Phòng quản lý nhân sự - 3 người
     - Phòng công nghệ thông tin - 1 người
     - Phòng phát triển sản phẩm - 14 dev + 1 hạ tầng + 2 BA + 2 designer
     - Phòng sale & mkt - 8 người
